@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Hi, I’m @Lufyjs!, a young developer from Turkey 🚀
 <!--
 **lufyjs/lufyjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
